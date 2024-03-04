@@ -1,3 +1,3 @@
 # todo-app-streamlit
 
-https://todo-app-app-axrydzsm3e32pqythy7yqx.streamlit.app/
+https://todo-app-2024.streamlit.app/
